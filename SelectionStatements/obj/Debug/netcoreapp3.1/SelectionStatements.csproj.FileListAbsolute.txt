@@ -1,0 +1,13 @@
+C:\Users\Tim\source\repos\SelectionStatements\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.csprojAssemblyReference.cache
+C:\Users\Tim\source\repos\SelectionStatements\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.AssemblyInfoInputs.cache
+C:\Users\Tim\source\repos\SelectionStatements\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.AssemblyInfo.cs
+C:\Users\Tim\source\repos\SelectionStatements\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.csproj.CoreCompileInputs.cache
+C:\Users\Tim\source\repos\SelectionStatements\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.exe
+C:\Users\Tim\source\repos\SelectionStatements\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.deps.json
+C:\Users\Tim\source\repos\SelectionStatements\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.runtimeconfig.json
+C:\Users\Tim\source\repos\SelectionStatements\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.runtimeconfig.dev.json
+C:\Users\Tim\source\repos\SelectionStatements\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.dll
+C:\Users\Tim\source\repos\SelectionStatements\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.pdb
+C:\Users\Tim\source\repos\SelectionStatements\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.dll
+C:\Users\Tim\source\repos\SelectionStatements\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.pdb
+C:\Users\Tim\source\repos\SelectionStatements\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.genruntimeconfig.cache
